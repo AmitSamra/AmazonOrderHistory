@@ -71,4 +71,4 @@ SQLAlchemy can be used to directly query data from a SQL database. The queries c
 
 ![SQL_PurchasesByYear](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/SQL_PurchasesByYear.png)
 
-And this concludes my presentation. Thank you! 
+This concludes my presentation. Thank you! 
