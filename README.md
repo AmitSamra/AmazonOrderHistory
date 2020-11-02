@@ -1,7 +1,7 @@
 ![Amazon Logo](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/amazon_logo.png)
 
 
-Amazon.com is the largest online retailer in the world. One of the best things about Amazon is the ability to download order reports in CSV format. In this project, I provide insight into my Amazon order history spanning 2008 to 2019, inclusive. I use pandas, matplotlib and sqlalchemy to clean, analyze and persist data. 
+Amazon.com is the largest online retailer in the world. One of the best things about Amazon is the ability to download order reports in CSV format. In this project, I provide insight into my Amazon order history spanning 2008 to 2019, inclusive. I use pandas, matplotlib and SQLAlchemy to clean, analyze and persist data. 
 
 This repository includes a [JupyterNotebook](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/AmazonOrderHistory.ipynb), which contains all of the code used to generate the following report. 
 
@@ -25,13 +25,13 @@ It took 781 transactions to achieve this number. 2019 marked a sharp increase in
 
 ![TransactionsByYear](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/TransactionsByYear.png)
 
-The following shows my daily purchase totals. Most of my transactions seem to be below $50 with occasional big-ticket purchases. 
-
-![DailyPurchaseAmount](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/DailyPurchaseAmount.png)
-
 My average transaction size was almost $40.
 
 ![AveragePerTransPerYear](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/AveragePerTransPerYear.png)
+
+The following shows my daily purchase totals. Most of my transactions seem to be below $50 with occasional big-ticket purchases. 
+
+![DailyPurchaseAmount](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/DailyPurchaseAmount.png)
 
 This graph shows what seems to be an outlier. I spent over $7,000 in 2011. 
 
@@ -45,9 +45,12 @@ Is there any particular day that I purchase more frequently? Yes, Monday. I seem
 
 ![PurchasesByDay](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/PurchasesByDay.png)
 
-Most of my purchases on Amazon are for Computers and Electronics equipment. The two categories account for nearly 50% of my Amzon purchases. 
+Most of my purchases on Amazon are for Computers and Electronics equipment. 
 
 ![PurchasesByCategory](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/PurchasesByCategory.png)
+
+The two categories account for nearly 50% of my Amzon purchases. 
+
 ![PurchasesByCategoryShare](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/PurchasesByCategoryShare.png)
 
 Almost 60% of my transaction are with Amazon as the seller. 
@@ -58,3 +61,14 @@ But Amazon accounts for 75% of my purchase spend. Perhaps it's the generous retu
 
 ![PurchasesBySeller](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/PurchasesBySeller.png)
 
+# SQL
+
+One of the best things about Python is that we can actually source our data directly from SQL. The following shows a dataframe that I both created and sourced by using SQLAlchemy. 
+
+![SQL_dataframe](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/SQL_dataframe.png)
+
+SQLAlchemy can be used to directly query data from a SQL database. The queries can then be utilized inside Python. 
+
+![SQL_PurchasesByYear](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/SQL_PurchasesByYear.png)
+
+And this concludes my presentation. Again, the code for the analysis and charts is found in the Jupyter Notebook in this repository. Thank you! 
