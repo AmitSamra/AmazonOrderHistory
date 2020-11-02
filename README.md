@@ -37,27 +37,27 @@ This graph shows what seems to be an outlier. I spent over $7,000 in 2011.
 
 ![PurchasesByYear](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/PurchasesByYear.png)
 
-It seems I spend the most amount in March, July and August and not during Christmas. 
+It seems that I spent the most amount in March, July and August and not during Christmas. 
 
 ![PurchasesByMonth](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/PurchasesByMonth.png)
 
-Is there any particular day that I purchase more frequently? Yes, Monday. I seem to order more in the beginning of the week, likely due to the chances of things being delivered quickly. 
+Is there any particular day that I purchased more frequently? Yes, Monday. I seem to haved ordered more in the beginning of the week, likely due to the chances of things being delivered quickly on a weekday. 
 
 ![PurchasesByDay](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/PurchasesByDay.png)
 
-Most of my purchases on Amazon are for Computers and Electronics equipment. 
+Most of my purchases on Amazon were for Computers and Electronics equipment. 
 
 ![PurchasesByCategory](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/PurchasesByCategory.png)
 
-The two categories account for nearly 50% of my Amzon purchases. 
+The two categories accounted for nearly 50% of my Amazon purchases. 
 
 ![PurchasesByCategoryShare](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/PurchasesByCategoryShare.png)
 
-Almost 60% of my transaction are with Amazon as the seller. 
+Almost 60% of my transactions were with Amazon as the seller. 
 
 ![TransactionsBySeller](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/TransactionsBySeller.png)
 
-But Amazon accounts for 75% of my purchase spend. Perhaps it's the generous returns policy for goods sold directly by Amazon. 
+But Amazon accounted for 75% of my purchase spend. Perhaps it's the generous returns policy for goods sold directly by Amazon. 
 
 ![PurchasesBySeller](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/PurchasesBySeller.png)
 
@@ -71,4 +71,4 @@ SQLAlchemy can be used to directly query data from a SQL database. The queries c
 
 ![SQL_PurchasesByYear](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/SQL_PurchasesByYear.png)
 
-And this concludes my presentation. Again, the code for the analysis and charts is found in the Jupyter Notebook in this repository. Thank you! 
+And this concludes my presentation. Thank you! 
