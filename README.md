@@ -17,7 +17,44 @@ Data cleaning is an important part of the ETL process. The following shows the f
 
 # Data Analysis
 
-Let's begin with a striking number. $30,000. That's how much did I spent on Amazon over the last 12 years and 781 transactions. My average transaction size was almost $39.
+Let's begin with a striking number: $30,000. That's how much I spent on Amazon over the last 12 years. 
 
 ![Total Spending](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/total_spent.png)
+
+It took 781 transactions to achieve this number. 2019 marked a sharp increase in my transactions, surpassing the peak I hit in 2011. 
+
+![TransactionsByYear](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/TransactionsByYear.png)
+
+The following shows my daily purchase totals. Most of my transactions seem to be below $50 with occasional big-ticket purchases. 
+
+![DailyPurchaseAmount](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/DailyPurchaseAmount.png)
+
+My average transaction size was almost $40.
+
+![AveragePerTransPerYear](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/AveragePerTransPerYear.png)
+
+This graph shows what seems to be an outlier. I spent over $7,000 in 2011. 
+
+![PurchasesByYear](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/PurchasesByYear.png)
+
+It seems I spend the most amount in March, July and August and not during Christmas. 
+
+![PurchasesByMonth](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/PurchasesByMonth.png)
+
+Is there any particular day that I purchase more frequently? Yes, Monday. I seem to order more in the beginning of the week, likely due to the chances of things being delivered quickly. 
+
+![PurchasesByDay](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/PurchasesByDay.png)
+
+Most of my purchases on Amazon are for Computers and Electronics equipment. The two categories account for nearly 50% of my Amzon purchases. 
+
+![PurchasesByCategory](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/PurchasesByCategory.png)
+![PurchasesByCategoryShare](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/PurchasesByCategoryShare.png)
+
+Almost 60% of my transaction are with Amazon as the seller. 
+
+![TransactionsBySeller](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/TransactionsBySeller.png)
+
+But Amazon accounts for 75% of my purchase spend. Perhaps it's the generous returns policy for goods sold directly by Amazon. 
+
+![PurchasesBySeller](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/PurchasesBySeller.png)
 
