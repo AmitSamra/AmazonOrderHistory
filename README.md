@@ -7,9 +7,9 @@ This repository includes a [JupyterNotebook](https://github.com/AmitSamra/Amazon
 
 # Table of Contents
 
-1. [Data Processing](https://github.com/AmitSamra/AmazonOrderHistory#data-processing)
-2. [Data Analysis](https://github.com/AmitSamra/AmazonOrderHistory#data-analysis)
-3. [SQL](https://github.com/AmitSamra/AmazonOrderHistory#sql)
+1. [Data Processing](https://github.com/AmitSamra/AmazonOrderHistory#1-data-processing)
+2. [Data Analysis](https://github.com/AmitSamra/AmazonOrderHistory#2-data-analysis)
+3. [SQL](https://github.com/AmitSamra/AmazonOrderHistory#3-sql)
 
 # 1. Data Processing
 
