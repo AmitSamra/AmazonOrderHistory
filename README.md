@@ -7,7 +7,7 @@ Amazon.com is the largest online retailer in the world. One of the best things a
 ![matplotlib_logo](img/matplotlib_logo.png)  
 ![sqlalchemy_logo](img/sqlalchemy_logo.png)
 
-This repository includes a [JupyterNotebook](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/AmazonOrderHistory.ipynb), which contains all of the code used to generate the following report. 
+This repository includes a [JupyterNotebook](AmazonOrderHistory.ipynb), which contains all of the code used to generate the following report. 
 
 # Table of Contents
 
