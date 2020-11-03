@@ -21,6 +21,8 @@ Data cleaning is an important part of the ETL process. The following shows the f
 
 ![Final Dataframe](img/final_dataframe.png)
 
+[Home](https://github.com/AmitSamra/AmazonOrderHistory#table-of-contents)
+
 # 2. Data Analysis
 
 Let's begin with a striking number: $30,000. That's how much I spent on Amazon over the last 12 years. 
@@ -75,6 +77,8 @@ However, orders with the highest value were shipped with either FedEx or UPS.
 
 ![ShippingMethodPrice](img/ShippingMethodPrice.png)
 
+[Home](https://github.com/AmitSamra/AmazonOrderHistory#table-of-contents)
+
 # 3. SQL
 
 One of the best things about Python is that we can actually source our data directly from SQL. The following shows a dataframe that I both created and sourced by using SQLAlchemy. 
@@ -86,3 +90,5 @@ SQLAlchemy can be used to directly query data from a SQL database. The queries c
 ![SQL_PurchasesByYear](img/SQL_PurchasesByYear.png)
 
 This concludes my presentation. Thank you! 
+
+[Home](https://github.com/AmitSamra/AmazonOrderHistory#table-of-contents)
