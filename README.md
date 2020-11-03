@@ -1,7 +1,10 @@
-![Amazon Logo](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/amazon_logo.png)
+![amazon_logo](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/amazon_logo.png)
+![python_logo](img/python_logo.png)
+![pandas_logo](img/pandas_logo.png)
+![matplotlib_logo](img/matplotlib_logo.png)
+![sqlalchemy_logo](img/sqlalchemy_logo.png)
 
-
-Amazon.com is the largest online retailer in the world. One of the best things about Amazon is the ability to download order reports in CSV format. In this project, I provide insight into my Amazon order history spanning 2008 to 2019, inclusive. I use pandas, matplotlib and SQLAlchemy to clean, analyze and persist data. 
+Amazon.com is the largest online retailer in the world. One of the best things about Amazon is the ability to download order reports in CSV format. In this project, I provide insight into my Amazon order history spanning 2008 to 2019, inclusive. I use pandas, matplotlib and SQLAlchemy to clean, analyze and persist data.
 
 This repository includes a [JupyterNotebook](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/AmazonOrderHistory.ipynb), which contains all of the code used to generate the following report. 
 
