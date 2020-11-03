@@ -67,7 +67,7 @@ Most orders were shipped using USPS folowed by Amazon's in-house delivery servic
 
 However, orders with the highest value were shipped with either FedEx or UPS. 
 
-![ShippingMethodPrice](img/ShippingMethodPrice)
+![ShippingMethodPrice](img/ShippingMethodPrice.png)
 
 # SQL
 
