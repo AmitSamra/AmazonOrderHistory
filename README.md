@@ -1,4 +1,3 @@
-###### Home
 ![amazon_logo](https://github.com/AmitSamra/AmazonOrderHistory/blob/master/img/amazon_logo.png)
 
 Amazon.com is the largest online retailer in the world. One of the best things about Amazon is the ability to download order reports in CSV format. In this project, I provide insight into my Amazon order history spanning 2008 to 2019, inclusive. I use python, pandas, matplotlib and SQLAlchemy to clean, analyze and persist data.
@@ -26,7 +25,7 @@ Data cleaning is an important part of the ETL process. The following shows the f
 
 ![Final Dataframe](img/final_dataframe.png)
 
-[Home](https://github.com/AmitSamra/AmazonOrderHistory#home)
+[Home](https://github.com/AmitSamra/AmazonOrderHistory)
 
 # 2. Data Analysis
 
@@ -82,7 +81,7 @@ However, orders with the highest value were shipped with either FedEx or UPS.
 
 ![ShippingMethodPrice](img/ShippingMethodPrice.png)
 
-[Home](https://github.com/AmitSamra/AmazonOrderHistory#home)
+[Home](https://github.com/AmitSamra/AmazonOrderHistory)
 
 # 3. SQL
 
@@ -96,4 +95,4 @@ SQLAlchemy can be used to directly query data from a SQL database. The queries c
 
 This concludes my presentation. Thank you! 
 
-[Home](https://github.com/AmitSamra/AmazonOrderHistory#home)
+[Home](https://github.com/AmitSamra/AmazonOrderHistory)
