@@ -81,7 +81,7 @@ However, orders with the highest value were shipped with either FedEx or UPS.
 
 ![ShippingMethodPrice](img/ShippingMethodPrice.png)
 
-[Home](https://github.com/AmitSamra/AmazonOrderHistory)
+[Home](https://github.com/AmitSamra/AmazonOrderHistory#)
 
 # 3. SQL
 
@@ -95,4 +95,4 @@ SQLAlchemy can be used to directly query data from a SQL database. The queries c
 
 This concludes my presentation. Thank you! 
 
-[Home](https://github.com/AmitSamra/AmazonOrderHistory)
+[Home](https://github.com/AmitSamra/AmazonOrderHistory#)
