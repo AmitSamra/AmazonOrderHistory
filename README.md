@@ -25,7 +25,7 @@ Data cleaning is an important part of the ETL process. The following shows the f
 
 ![Final Dataframe](img/final_dataframe.png)
 
-[Home](https://github.com/AmitSamra/AmazonOrderHistory)
+[Home](https://github.com/AmitSamra/AmazonOrderHistory#)
 
 # 2. Data Analysis
 
