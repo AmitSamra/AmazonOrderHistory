@@ -26,7 +26,7 @@ Data cleaning is an important part of the ETL process. The following shows the f
 
 ![Final Dataframe](img/final_dataframe.png)
 
-[Table of Contents](https://github.com/AmitSamra/AmazonOrderHistory#table-of-contents)
+[Home](https://github.com/AmitSamra/AmazonOrderHistory#home)
 
 # 2. Data Analysis
 
@@ -82,7 +82,7 @@ However, orders with the highest value were shipped with either FedEx or UPS.
 
 ![ShippingMethodPrice](img/ShippingMethodPrice.png)
 
-[Table of Contents](https://github.com/AmitSamra/AmazonOrderHistory#table-of-contents)
+[Home](https://github.com/AmitSamra/AmazonOrderHistory#home)
 
 # 3. SQL
 
@@ -96,4 +96,4 @@ SQLAlchemy can be used to directly query data from a SQL database. The queries c
 
 This concludes my presentation. Thank you! 
 
-[Table of Contents](https://github.com/AmitSamra/AmazonOrderHistory#table-of-contents)
+[Home](https://github.com/AmitSamra/AmazonOrderHistory#home)
