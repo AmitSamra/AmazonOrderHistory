@@ -9,7 +9,7 @@ This repository includes a [JupyterNotebook](AmazonOrderHistory.ipynb), which co
 # Table of Contents
 
 1. [Data Processing](https://github.com/AmitSamra/AmazonOrderHistory#1-data-processing)
-2. [Data Analysis](https://github.com/AmitSamra/AmazonOrderHistory#2-data-analysis)
+2. [Data Analysis and Visualization](https://github.com/AmitSamra/AmazonOrderHistory#2-data-analysis)
 3. [SQL](https://github.com/AmitSamra/AmazonOrderHistory#3-sql)
 
 # 1. Data Processing
@@ -24,7 +24,7 @@ Data cleaning is an important part of the ETL process. The following shows the f
 
 [Home](https://github.com/AmitSamra/AmazonOrderHistory#)
 
-# 2. Data Analysis
+# 2. Data Analysis and Visualization
 
 Let's begin with a striking number: $30,000. That's how much I spent on Amazon over the last 12 years. 
 
